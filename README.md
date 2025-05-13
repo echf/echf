@@ -1,8 +1,3 @@
-`echf`
-
-self-taught  
-focused on code, not clutter
-
 [![commits](https://github-readme-stats.vercel.app/api?username=echf&count_private=true&show_icons=false&hide=stars,prs,issues&hide_title=true&hide_border=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 [![python](https://img.shields.io/badge/python-111111?style=flat&logo=python&logoColor=white)](https://www.python.org)
