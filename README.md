@@ -4,5 +4,7 @@
 [![javascript](https://img.shields.io/badge/javascript-111111?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![c++](https://img.shields.io/badge/c++-111111?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![c#](https://img.shields.io/badge/c%23-111111?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![next.js](https://img.shields.io/badge/next.js-111111?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![html](https://img.shields.io/badge/html5-111111?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [![discord presence](https://lanyard-profile-readme.vercel.app/api/1230768638504472607?theme=light&animated=true&hideDiscriminators=true&hideBadges=true)](https://discord.com/users/1230768638504472607)
