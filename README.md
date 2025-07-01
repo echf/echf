@@ -7,4 +7,4 @@
 [![next.js](https://img.shields.io/badge/next.js-111111?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![html](https://img.shields.io/badge/html5-111111?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[![discord presence](https://lanyard-profile-readme.vercel.app/api/1230768638504472607?theme=light&animated=true&hideDiscriminators=true&hideBadges=true)](https://discord.com/users/1230768638504472607)
+[![discord presence](https://lanyard-profile-readme.vercel.app/api/1346919829159809024?theme=light&animated=true&hideDiscriminators=true&hideBadges=true)](https://discord.com/users/1346919829159809024)
